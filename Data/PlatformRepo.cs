@@ -5,7 +5,7 @@ using PlatoformService;
 
 namespace PlatformService.Data
 {
-    public class PlatformRepo : IPlatofrmRepo
+    public class PlatformRepo : IPlatformRepo
     {
         private readonly AppDbContext _context;
 

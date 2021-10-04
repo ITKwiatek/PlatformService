@@ -3,7 +3,7 @@ using PlatoformService;
 
 namespace PlatformService.Data
 {
-    public interface IPlatofrmRepo
+    public interface IPlatformRepo
     {
         bool SaveChanges();
 
